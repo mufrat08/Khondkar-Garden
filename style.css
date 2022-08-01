@@ -1,0 +1,67 @@
+body{
+    font-family: 'Markazi Text', serif;
+    font-family: 'Mouse Memoirs', sans-serif;
+}
+h1{
+    font-size: 45px;
+    
+}
+.highlight{
+    color: #0c99eb;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 3%;
+}
+.half-width img{
+    width: 100%;
+
+}
+section{
+    height: 380px;
+    padding-bottom: 110px;
+}
+h3{
+    font-size: 20px;
+}
+.banner{
+    
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+    
+}
+h2{
+    font-size: 35px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(#0ee0e0c5, lime);
+    padding: 9px 19px;
+    border-radius: 7px;
+    color: black;
+}
+.details{
+    background-color: #a0eed4d7;
+}
+.single-experience{
+    box-shadow: 10px 20px 40px rgb(114, 206, 230);
+    border-radius: 10px;
+    height: 90%;
+    background-color: white;
+}
+.order-system{
+    background-color: antiquewhite;
+}
+#design-border{
+border-left: 7px solid #da0abe;
+background-image: linear-gradient(#0fce0f, #17d1df );
+
+}
+#design-border-another{
+    border-left: 7px solid salmon;
+    border-image: linear-gradient(#0ccfcf,#e410b6);
+    border-image-slice: 1;
+
+}
